@@ -1,12 +1,12 @@
-namespace: "ttt"
-name: "test"
+namespace: "demo"
+name: "custom-plugin"
 version: "1.0.0"
 readme: "README.md"
 authors:
     - "Prasant Kumar"
 dependencies:
 license:
-    - "IBM"
+    - "TTN"
 tags:
     - test
     - plugin
